@@ -40,6 +40,11 @@ code, wiki edits, issues, and other contributions that are not aligned to this
 Code of Conduct, and will communicate reasons for moderation decisions when
 appropriate.
 
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported 
+to the community leaders responsible for enforcement at open.chromosome.collective@gmail.com. 
+All complaints will be reviewed and investigated promptly and fairly. All community leaders 
+are obligated to respect the privacy and security of the reporter of any incident.
+
 ## Scope
 
 This Code of Conduct applies within all community spaces and also applies when
