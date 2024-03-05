@@ -14,4 +14,4 @@ Here's how to get started:
 📢 Attention ☀️ [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/organizations/open-chromosome-collective) ☀️ candidates:
 - Join us on Slack
 - Check out our [project ideas page](https://github.com/open2c/open2c.github.io/wiki/GSoC-2024)
-- Fill out our intake [survey](https://forms.gle/agUYfrZDEBDZQxKV8) by March 10th
+- Fill out our intake [survey](https://forms.gle/agUYfrZDEBDZQxKV8) by March 10th (we will consider late responses until March 15th)
