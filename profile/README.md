@@ -11,4 +11,4 @@ Here's how to get started:
 - 👋 Come and say hi on our [Slack workspace](https://bit.ly/open2c-slack)!
 - 🤝 Please abide by our community [code of conduct](https://open2c.github.io/code_of_conduct.html)
 
-Welcome ☀️ [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/organizations/open-chromosome-collective) ☀️ contributors!
+Congratulations to our ☀️ [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/organizations/open-chromosome-collective) ☀️ contributors!
