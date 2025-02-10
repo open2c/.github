@@ -8,7 +8,5 @@ Here's how to get started:
 
 - 📦 See our available packages on the [website](https://open2c.github.io/) and [org page](https://github.com/open2c).
 - 🎓 Check out the [tutorials](https://open2c.github.io/).
-- 👋 Come and say hi on our [Slack workspace](https://bit.ly/open2c-slack)!
+- 👋 Come and say hi on [Discord](https://discord.com/invite/qVfSbDYHNG)!
 - 🤝 Please abide by our community [code of conduct](https://open2c.github.io/code_of_conduct.html)
-
-Congratulations to our ☀️ [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/organizations/open-chromosome-collective) ☀️ contributors!
